@@ -1,10 +1,10 @@
-<a align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+;I%E2%80%99m%D9%90+Alanoud+!" alt="Typing SVG" /></a>
-<h3>⚡ A passionate software developer from Riyadh ⚡</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=497&random=false&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+Alanoud+!" alt="Typing SVG" /></a>
+<h3>⚡ A passionate FullStack developer⚡</h3>
+<p align="left"> <img src="![imoji](https://github.com/Alanoudv/Alanoudv/assets/151371414/f25c49f6-b370-49e1-bc34-7917d6422f75)" > </p>
 
+- 👀 I’m interested in **BackEnd**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoudv&label=Profile%20views&color=0e75b6&style=flat" alt="alanoudv" /> </p>
-
-- 🌱 I’m currently learning **unit testing, #C , .NET , API**
+- 🌱 I’m currently learning **Unit Testing , #C , .NET , API**
 
 - 📫 How to reach me **Alanoodabduallah110@gmail.com**
 
